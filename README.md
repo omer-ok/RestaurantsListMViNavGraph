@@ -41,3 +41,5 @@ to test and release different versions
 2- Download and Sync Gradle and Click on Run.
 
 #### Sample Screenshot
+
+![](app/src/main/res/output/img.jpeg)
